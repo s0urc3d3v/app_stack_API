@@ -38,3 +38,17 @@ stackIdentifier.pop(position)
 ;
 
 //THE .mod() method is a work in PROGRESS
+```
+
+
+
+
+
+
+
+
+
+
+feel free to branch, report a bug and whatever you want just follow the GPL3
+follow me on [twitter](www.twitter.com/m3lbing)
+
