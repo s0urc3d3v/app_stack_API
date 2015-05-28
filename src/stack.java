@@ -9,7 +9,7 @@ public class stack {
      * denotation
      *
      */
-    /**Copyright (C) Matthew Elbing  <name of author>
+    /**Copyright (C) <2015> <Matthew Elbing>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -52,15 +52,13 @@ public class stack {
     }
     public boolean mod(
             int[] values, int[] posistions, int types[]){
-
+            return false
+                    ;
+        
         //For the future
-        return false
-                ;
-
 
     }
 
 
     }
-
 
