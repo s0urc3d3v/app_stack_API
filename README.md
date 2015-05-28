@@ -49,6 +49,10 @@ stackIdentifier.pop(position)
 
 
 
-feel free to branch, report a bug and whatever you want just follow the GPL3
+
+
+
+
+
 follow me on [twitter](www.twitter.com/m3lbing)
 
