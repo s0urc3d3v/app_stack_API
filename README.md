@@ -14,6 +14,8 @@ The base of this program is a series engine which can be understood like so
 
 .pop() is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
 
+.get() is reprensented by <sup>512></sup>∑<sub>n = 1</sub>m[n]
+
 *HOW TO USE*
 
 ```
@@ -44,6 +46,22 @@ int position = 5;
 stackIdentifier.pop(position) 
 ;
 
+
+//The .get() method is for getting a value at a place
+
+stackIndentified.get(5);
+//or with variables
+int n = 5;
+stackIdentifier.get(n);
+//CHECK FOR 0 as this is a FAIL
+int get = 
+stackIdentifier.get(5);
+if (get != 0){
+  int y = get
+else{
+  //ERROR
+
+  
 //THE .mod() method is a work in PROGRESS
 ```
 
