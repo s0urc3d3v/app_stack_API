@@ -8,7 +8,14 @@ values , int[] types);
 These methods allow developers to have a way to store variables and values quickly without sacrificing performace.
 An ideal use for this is in lightweight desktop applications on mobile apps where less resources are avaible.
 
+The base of this program is a series engine which can be understood like so 
+
+.add() is repeptented by <sup>512</sup>∑<sub>n = 1</sub> m[n] = n
+
+.pop() is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
+
 *HOW TO USE*
+
 ```
 //declare the object
 
