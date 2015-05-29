@@ -50,11 +50,21 @@ public class stack {
         }
 
     }
+    public int get(int pos){
+        //check for 0 return as a fail!
+        if (stack[pos] == stack[pos]){
+            return  stack[pos];
+        }
+        else {
+            return 0;
+        }
+
+    }
     public boolean mod(
             int[] values, int[] posistions, int types[]){
             return false
                     ;
-        
+
         //For the future
 
     }
