@@ -14,7 +14,7 @@ The base of this program is a series engine which can be understood like so
 
 .pop(n) is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
 
-.get(n) is reprensented by <sup>512></sup>∑<sub>n = 1</sub>m[n]
+.get(n) is reprensented by <sup>512</sup>∑<sub>n = 1</sub>m[n]
 
 *HOW TO USE*
 
