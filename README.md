@@ -10,11 +10,11 @@ An ideal use for this is in lightweight desktop applications on mobile apps wher
 
 The base of this program is a series engine which can be understood like so 
 
-.add() is repeptented by <sup>512</sup>∑<sub>n = 1</sub> m[n] = n
+.add(n, v) is repeptented by <sup>512</sup>∑<sub>n = 1</sub> m[n] = v
 
-.pop() is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
+.pop(n) is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
 
-.get() is reprensented by <sup>512></sup>∑<sub>n = 1</sub>m[n]
+.get(n) is reprensented by <sup>512></sup>∑<sub>n = 1</sub>m[n]
 
 *HOW TO USE*
 
